@@ -23,7 +23,7 @@ Length of pascal triangle: 16
 >>> 
 
 
-2. The output of this file (result of single_quotation.py) is: 
+2. The output of this file (single_quotation.py) is: 
 
 ['p', 'y', 't', 'h', 'o', 'n', ' ', 'i', 's', ' ', 'a', ' ', 'p', 'r', 'o', 'g', 'r', 'a', 'm', 'm', 'i', 'n', 'g', ' ', 'l', 'a', 'n', 'g', 'u', 'a', 'g', 'e']
 
