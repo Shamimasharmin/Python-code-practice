@@ -32,23 +32,23 @@ Length of pascal triangle: 16
 
 
 >>> 5+6
-11
+=11
 
 
 >>> 56
-56
+=56
 
 
 >>> 3950950945-93488348
-3857462597
+=3857462597
 
 
 >>> 38945843*.048547
-1890703.840121
+=1890703.840121
 
 
 >>> 74953/90
-832.8111111111111
+=832.8111111111111
 
 
 addition(+), subtraction(-), multiplication(*), division(/) can be done using any integer or float number
