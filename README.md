@@ -59,13 +59,23 @@ addition(+), subtraction(-), multiplication(*), division(/) can be done using an
 
 
 player1- Choose one: Rock, Paper or Scissors : paper
+
 player2- Choose one: Rock, Paper or Scissors : scissors
+
 Do you want to continue? YES
+
 player1- Choose one: Rock, Paper or Scissors : scissors
+
 player2- Choose one: Rock, Paper or Scissors : rock
+
 Congrats, player2 win the game
+
 Do you want to continue? Yes
+
 player1- Choose one: Rock, Paper or Scissors : paper
+
 player2- Choose one: Rock, Paper or Scissors : scissors
+
 Do you want to continue? No
+
 Thanks for playing          
