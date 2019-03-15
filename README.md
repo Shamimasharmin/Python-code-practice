@@ -1,5 +1,5 @@
 # Python-code-practice
-1. The output of this file (pascal_triangle.py) is: 
+✔ 1. The output of this file (pascal_triangle.py) is: 
 
 Length of pascal triangle: 16
 
@@ -23,12 +23,12 @@ Length of pascal triangle: 16
 >>> 
 
 
-2. The output of this file (single_quotation.py) is: 
+✔ 2. The output of this file (single_quotation.py) is: 
 
 ['p', 'y', 't', 'h', 'o', 'n', ' ', 'i', 's', ' ', 'a', ' ', 'p', 'r', 'o', 'g', 'r', 'a', 'm', 'm', 'i', 'n', 'g', ' ', 'l', 'a', 'n', 'g', 'u', 'a', 'g', 'e']
 
 
-3. The output of this file (addition_subtraction_multiplication_division.py) is: 
+✔ 3. The output of this file (addition_subtraction_multiplication_division.py) is: 
 
 
 >>> 5+6
@@ -55,7 +55,7 @@ addition(+), subtraction(-), multiplication(*), division(/) can be done using an
 
 
 
-4. The output of this file (playing_rock_paper_scissors.py) is: 
+✔ 4. The output of this file (playing_rock_paper_scissors.py) is: 
 
 
 player1- Choose one: Rock, Paper or Scissors : paper
@@ -79,3 +79,28 @@ player2- Choose one: Rock, Paper or Scissors : scissors
 Do you want to continue? No
 
 Thanks for playing          
+
+
+✔ 5. The output of this file (user_name_and_password.py) is: 
+
+Enter Username:
+
+munmun
+
+Enter password:
+
+hello
+
+Wrong user name 
+
+Again running this same file and the output is: 
+
+Enter Username:
+
+Munmun
+
+Enter password:
+
+hello
+
+Welcome, Munmun!
