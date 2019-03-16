@@ -104,3 +104,28 @@ Enter password:
 hello
 
 Welcome, Munmun!
+
+
+✔ 6. The output of this file (creating_list.py) is:
+
+ [1]
+
+
+[2, 4]
+
+
+[3, 6, 9]
+
+
+[4, 8, 12, 16]
+
+
+[3, 6, 9]
+
+
+[2, 4]
+
+
+[1]
+
+
