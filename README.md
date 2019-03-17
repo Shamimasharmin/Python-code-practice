@@ -129,3 +129,36 @@ Welcome, Munmun!
 [1]
 
 
+✔ 7. The output of this file (➡creating_number_list.py⬅) is: 
+
+Enter a number: 2
+
+1	
+
+2	
+
+4	
+
+1	
+
+👉 Again running this same file (➡creating_number_list.py⬅) and the output is:
+
+Enter a number: 3
+
+1	
+
+2	
+
+4	
+
+3	
+
+6	
+
+9	
+
+2	
+
+4	
+
+1
