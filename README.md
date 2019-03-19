@@ -162,3 +162,54 @@ Enter a number: 3
 4	
 
 1
+
+
+✔ 8. The output of this file (➡leap_year.py⬅) is: 
+
+2020 Is a Leap Year
+
+👉 If I change this command (for x in range(2021):) to this command (for x in range(2021):) from this file (➡leap_year.py⬅) then the output is:
+
+2021 Is not a Leap Year
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
