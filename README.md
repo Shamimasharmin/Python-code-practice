@@ -173,6 +173,19 @@ Enter a number: 3
 2021 Is not a Leap Year
 
 
+✔ 9. The output of this file (➡pi.py⬅) is:
+
+0.0
+
+3.141592
+
+0.03141592000000001
+
+78.5398
+
+
+
+
 
 
 
