@@ -200,11 +200,17 @@ Enter a number: 3
 ✔ 10. The output of this file (➡calendar.py⬅) is:
 
     February 2019
+    
 Mo Tu We Th Fr Sa Su
+
              1  2  3
+             
  4  5  6  7  8  9 10
+ 
 11 12 13 14 15 16 17
+
 18 19 20 21 22 23 24
+
 25 26 27 28
 
 If I want to know that any of the year is leap year or not than I just I have to write this line 👇 in the python shell and get the result properly:
@@ -234,11 +240,17 @@ We can also check any month of the calendar.
 👉 If I change this command (print(calendar.month(2019,2)) to this command (print(calendar.month(2021,7)) from this file (➡calendar.py⬅) and running this file (➡calendar.py⬅) then the output is:
 
      July 2021
+     
 Mo Tu We Th Fr Sa Su
+
           1  2  3  4
+          
  5  6  7  8  9 10 11
+ 
 12 13 14 15 16 17 18
+
 19 20 21 22 23 24 25
+
 26 27 28 29 30 31
 
 
