@@ -254,6 +254,64 @@ We can also check any month of the calendar.
     26 27 28 29 30 31
 
 
+# fibonacci_sequence.py
+
+✔ 10. The output of this file (➡fibonacci_sequence.py⬅) is:
+
+Enter the value of N : 0
+
+Fibonacci Series till  0 digits : 
+
+0
+
+👉 Again running this same file (➡fibonacci_sequence.py⬅) and the output is:
+
+Enter the value of N : 1
+
+Fibonacci Series till  1 digits : 
+
+1
+
+👉 Again running this same file (➡fibonacci_sequence.py⬅) and the output is:
+
+Enter the value of N : 8
+
+Fibonacci Series till  8 digits : 
+
+0 , 1, 1, 2, 3, 5, 8, 13, 
+
+👉 Again running this same file (➡fibonacci_sequence.py⬅) and the output is:
+
+Enter the value of N : -1
+
+Fibonacci Series till  -1 digits : 
+
+Incorrect Input
+
+# 👇 What is Fibonacci Sequence ?
+
+Answer : The Fibonacci Sequence is the series of numbers:
+
+                                       0, 1, 1, 2, 3, 5, 8, 13, 21, 34, ...
+
+The next number is found by adding up the two numbers before it.
+
+➡ The 2 is found by adding the two numbers before it (1+1)
+
+➡ The 3 is found by adding  the two numbers before it (1+2),
+
+➡ And the 5 is (2+3),
+
+➡ and so on!
+
+
+
+
+
+
+
+
+
 
 
 
