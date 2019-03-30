@@ -310,9 +310,7 @@ The next number is found by adding up the two numbers before it.
 ✔ 12. The output of this file (➡stars.py⬅) is:
 
 *
-
 **
-
 ***
 
 ****
