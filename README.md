@@ -256,7 +256,7 @@ We can also check any month of the calendar.
 
 # fibonacci_sequence.py
 
-✔ 10. The output of this file (➡fibonacci_sequence.py⬅) is:
+✔ 11. The output of this file (➡fibonacci_sequence.py⬅) is:
 
 Enter the value of N : 0
 
@@ -305,7 +305,49 @@ The next number is found by adding up the two numbers before it.
 ➡ and so on!
 
 
+# stars.py
 
+✔ 12. The output of this file (➡stars.py⬅) is:
+
+                           *
+                           
+                           **
+                           
+                           ***
+
+                           ****
+
+                           *****
+
+                           ******
+
+                           *******
+
+                           ********
+
+                           *********
+
+                           **********
+
+                           **********
+
+                           *********
+
+                           ********
+
+                           *******
+
+                           ******
+
+                           *****
+
+                           ****
+
+                           ***
+
+                           **
+
+                           *
 
 
 
