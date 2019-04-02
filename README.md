@@ -350,6 +350,28 @@ The next number is found by adding up the two numbers before it.
                            *
 
 
+# star.py
+
+✔ 13. The output of this file (➡star.py⬅) is:
+
+                          *
+                          
+                          **
+                          
+                          ***
+                          
+                          ****
+                          
+                          *****
+                          
+                          ******
+                          
+                          *******
+                          
+                          
+
+
+
 
 
 
